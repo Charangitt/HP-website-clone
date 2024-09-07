@@ -120,7 +120,7 @@ body,html{
 }.back{
     width: 100%;
     height: 67vh;
-    background-image: url("a51b3419266013.562d778d86448.jpg");
+    background-image: url("/assests/a51b3419266013.562d778d86448.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 24%;
@@ -277,7 +277,7 @@ body,html{
 .img{
     width: 100%;
     height: 28vh;
-    background-image: url("mid.avif");
+    background-image: url("/assests/mid.avif");
     background-size: cover  ;
 }
 .one{
